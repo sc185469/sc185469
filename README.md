@@ -12,8 +12,8 @@
   </a>
 </div>
 
-### :man_technologist: About Me :
-<b>PSO HW Engineer</b>
+### :computer: About Me :
+<b>PSO HW Engineer - Linux Team</b>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -28,11 +28,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<!--- 
 ### My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sc185469&theme=shades-of-purple)](https://git.io/streak-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sc185469)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sc185469&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+--->
 
 <!---
 sc185469/sc185469 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
